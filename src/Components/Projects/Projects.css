@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Chonburi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+.row1{
+    margin-top: 4%;
+    margin-left: 5%;
+    display: flex;
+}
+.row1 img{
+    width: 300px;
+    height: 300px;
+}
+.projdesc{
+    width: 27vw;
+    font-family: 'Rubik', sans-serif;
+}
+.projtitle{
+    font-family: 'Chonburi', sans-serif;
+    font-size: 25px;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+.row2{
+    margin-top: 6%;
+    margin-left: 5%;
+    display: flex;
+    margin-bottom: 5%;
+}
+.row2 img{
+    width: 300px;
+    height: 300px;
+}
