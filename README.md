@@ -19,7 +19,7 @@ Texas-based former teacher turned web developer and designer!
 
 ### `Contact`
 
-troymaedomio@gmail.com
+troymaedomio@gmail.com  ➡️ 
 [Portfolio](https://www.troydomio.me/)  ➡️ 
 [Linkedin](https://www.linkedin.com/in/troydomio/)
 
