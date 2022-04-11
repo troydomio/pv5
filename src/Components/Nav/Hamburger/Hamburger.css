@@ -43,13 +43,26 @@
     }
     .hamburger{
         width: 55px;
+        height: 28px;
+        position: absolute;
+        bottom: 1px;
+    }
+}
+@media (min-width:375px){
+    .hamburger_container{
+        margin-top: 2%;
+      margin-left: 77%;
+      /* border: 1px solid black; */
+    }
+    .hamburger{
+        width: 55px;
         height: 55px;
     }
 }
 @media (min-width:768px){
     .hamburger_container{
         margin-top: 1%;
-      margin-left: 70%;
+      margin-left: 80%;
       /* border: 1px solid black; */
     }
     .hamburger{

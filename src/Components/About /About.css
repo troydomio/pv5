@@ -111,6 +111,21 @@
         margin-bottom: 5%;
     }
 }
+@media (min-width:375px){
+    .abouttext{
+        position: absolute;
+        width: 77vw;
+        top:14vh;
+        right: 14vw;
+        /* border: 1px solid black; */
+    }
+   .overlay{
+       height: 45vh;
+   }
+   .social{
+       top: 99vh
+   }
+}
 /* TABLET */
 @media (min-width:768px){
     .underlay{
