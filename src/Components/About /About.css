@@ -120,11 +120,20 @@
         /* border: 1px solid black; */
     }
    .overlay{
-       height: 45vh;
+       height: 55vh;
    }
    .social{
+       margin-top: 16%;
        top: 99vh
    }
+   .howdy{
+       margin-top: 3%;
+       font-size: 30px;
+   }
+   .aboutbuttons{
+       font-size: 13px;
+   }
+   
 }
 /* TABLET */
 @media (min-width:768px){
