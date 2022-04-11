@@ -8,15 +8,14 @@ const About = () => {
             <div className="underlay"></div>
             <div className="overlay">
             <iframe src="https://giphy.com/embed/l46CCnESyYqtXKsyQ" width="480" height="480" className="overlayimage" frameBorder="0"  allowFullScreen></iframe>
-                {/* <img  className="overlayimage" src="https://images.unsplash.com/photo-1521017432531-fbd92d768814?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"></img> */}
                 <p className="overlaytext">Troy Domio</p>
                 <div>〰️</div>
                 <p className="overlayskills">I work with: <span></span></p>
             </div>
             <div className="social">
-                <img src='https://www.shareicon.net/data/512x512/2016/07/13/606885_linkedin_2048x2048.png'/>
-                <img src='https://pngimg.com/uploads/github/github_PNG58.png'/>
-                <img src='https://cdn-icons-png.flaticon.com/512/48/48975.png'/>
+                <a href="https://www.linkedin.com/in/troydomio/" target="_blank"><img src='https://www.shareicon.net/data/512x512/2016/07/13/606885_linkedin_2048x2048.png'/></a>
+                <a href="https://github.com/troydomio" target="_blank"><img src='https://pngimg.com/uploads/github/github_PNG58.png'/></a>
+                <a href="https://www.behance.net/troydomio" target="_blank"><img src='https://cdn-icons-png.flaticon.com/512/48/48975.png'/></a>
                 
             </div>
             </div>
@@ -24,7 +23,7 @@ const About = () => {
                 <p className="howdy">Howdy</p>
                 <p className="aboutdesc">I'm Troy, a former teacher turned software engineer currently focused on building (as well as designing) seamless, human-centered experiences and interactions for the web! </p>
                 <div className="aboutbuttons">
-                    <div><a href="/resume">↦ Resume</a></div>
+                    <div><a href="https://drive.google.com/file/d/1JF9371StD-sTLO5nITatQB1agGYqiLH0/view?usp=sharing" target='_blank'>↦ Resume</a></div>
                     <div><a href="/projects">↦ Projects</a></div>
                 </div>
             </div>

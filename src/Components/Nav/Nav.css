@@ -36,7 +36,6 @@
     color: white;
     text-decoration: none;
 }
-
 @media (min-width:768px){
     .desktopnavname{
         display: block;
@@ -68,6 +67,78 @@
         text-transform: uppercase;
         font-family: 'Rubik', sans-serif;
         font-size: 15px;
+    }
+    .desktopcontainer{
+        display: flex;
+    }
+}
+@media (min-width:320px){
+    .desktopnavname{
+        display: block;
+        margin-left: 5%;
+        margin-top: 10%;
+        width: 40%;
+    }
+    .name{
+        font-family: 'Chonburi', sans-serif;
+        font-size: 20px;
+        position: relative;
+        margin-top: 2%;
+       margin-right: 2%;
+        
+    }
+    .desc{
+        font-family: 'Rubik', sans-serif;
+        text-transform: uppercase;
+        font-size: 10px;
+        position: absolute;
+    }
+    .desktopnav{
+       display: none;
+    }
+    .desktopnav a{
+        text-decoration: none;
+        color: black;
+        padding-right: 4%;
+        text-transform: uppercase;
+        font-family: 'Rubik', sans-serif;
+        font-size: 15px;
+    }
+    .desktopcontainer{
+        display: flex;
+    }
+}
+@media (min-width:768px){
+    .mobile-nav{
+        display: none;
+    }
+    .desktopnavname{
+        display: block;
+        margin-left: 5%;
+        margin-top: 5%;
+        width: 20%;
+    }
+    .name{
+        font-family: 'Chonburi', sans-serif;
+        font-size: 25px;
+        position: relative;
+        margin-top: 5%;
+       margin-right: 2%;
+    }
+    
+    .desc{
+        font-family: 'Rubik', sans-serif;
+        text-transform: uppercase;
+        font-size: 15px;
+        position: absolute;
+        margin-top: 1%;
+    }
+    .desktopnav{
+        display: none;  
+    }
+    
+    .desktopnav a:hover{
+        color: #738678;
     }
     .desktopcontainer{
         display: flex;
