@@ -14,7 +14,7 @@ const Nav = () => {
             </div>
             <div className='desktopnav'>
                 <a  href="/">About</a>
-                <a href="/resume" >Resume</a>
+                <a href="https://drive.google.com/file/d/1JF9371StD-sTLO5nITatQB1agGYqiLH0/view?usp=sharing" target='_blank'>Resume</a>
                 <a href="/projects" >Projects</a>
                 {/* <a href="/contact" >Contact</a> */}
                 {/* <a href="/blog" >Blog</a> */}

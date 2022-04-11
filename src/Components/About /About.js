@@ -7,7 +7,8 @@ const About = () => {
             <div className="aboutcard">
             <div className="underlay"></div>
             <div className="overlay">
-                <img  className="overlayimage" src="https://images.unsplash.com/photo-1521017432531-fbd92d768814?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"></img>
+            <iframe src="https://giphy.com/embed/l46CCnESyYqtXKsyQ" width="480" height="480" className="overlayimage" frameBorder="0"  allowFullScreen></iframe>
+                {/* <img  className="overlayimage" src="https://images.unsplash.com/photo-1521017432531-fbd92d768814?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"></img> */}
                 <p className="overlaytext">Troy Domio</p>
                 <div>〰️</div>
                 <p className="overlayskills">I work with: <span></span></p>
