@@ -7,14 +7,14 @@
     .underlay{
         margin-top: 4%;
         width: 100vw;
-        height: 60vh;
+        height: 40vh;
         background-color: #738678;
         position: relative;
     }
     .overlay{
-       top:62vh;
+       top:52vh;
         width: 100vw;
-        height: 35vh;
+        height: 55vh;
         background-color: #F5F5F5;
         position: absolute;
         align-items: center;
@@ -44,6 +44,7 @@
          position: absolute;
          box-shadow: -15px 15px 15px rgba(255,255,255,0.1),
          15px 15px 15px rgba(0, 0, 0, 0.1);
+         margin-top: 15%;
     }
     .social img{
         width: 58px;
@@ -86,13 +87,14 @@
     }
     .howdy{
         font-family: 'Chonburi',sans-serif;
-        font-size: 56px;
+        font-size: 36px;
         margin-bottom: 8%;
+        padding-top: 1%;
     }
     .aboutbuttons{
         margin-top: 5%;
         font-family: 'Rubik', sans-serif;
-        font-size: 20px;
+        font-size: 10px;
         text-decoration: underline;
     }
     .aboutbuttons a{
@@ -107,7 +109,7 @@
     }
     .aboutdesc{
         font-family: 'Rubik', sans-serif;
-        font-size: 17px;
+        font-size: 13px;
         margin-bottom: 5%;
     }
 }
@@ -171,7 +173,7 @@
         font-size: 20px;
     }
     .social{
-        top:55vh;
+        top:41vh;
         right: 59vw;
          width: 27vw;
          height: 7vh;
@@ -284,7 +286,7 @@
     font-size: 20px;
 }
 .social{
-    top:79vh;
+    top:49vh;
     right: 46vw;
      width: 27vw;
      height: 7vh;
